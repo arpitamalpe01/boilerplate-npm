@@ -1,5 +1,6 @@
 {
-	"name": "arpita malpe",
+	"name": "fcc version of freecode camp",
+	"author": "Arpita Malpe",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
