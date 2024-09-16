@@ -1,5 +1,5 @@
 {
-	"name": "fcc version of freecode camp",
+	"name": "fcc-learn-npm-package-json",
 	"author": "Arpita Malpe",
 	"dependencies": {
 		"express": "^4.14.0"
